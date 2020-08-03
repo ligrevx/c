@@ -1,7 +1,10 @@
+/* convert string to hex 
+*  i created this for the purpose of creating bitcoin tx data `op_return`
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
- 
+
 int main(int argc, char **argv) {
 
   if( argc != 2) {
