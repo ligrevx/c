@@ -1,0 +1,2 @@
+# c
+`scoop install gcc`
